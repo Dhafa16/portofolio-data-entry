@@ -12,3 +12,6 @@ Data terdiri dari dua sheet utama:
 ## 🛠️ Tools yang Digunakan  
 ✅ Microsoft Excel (PivotTable, Conditional Formatting, Formula, dan Charts)  
 ✅ Rumus Excel: `SUMIF`, `AVERAGEIF`, `COUNTIF`, `VLOOKUP`, `IF`, `INDEX-MATCH`, dll.  
+
+##DOWNLOAD FILE DISINI
+[📥 Download Proyek](https://github.com/Dhafa16/portofolio-data-entry/raw/main/dummy%20project%20%231.xlsx)
