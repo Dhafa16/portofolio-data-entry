@@ -14,4 +14,4 @@ Data terdiri dari dua sheet utama:
 ✅ Rumus Excel: `SUMIF`, `AVERAGEIF`, `COUNTIF`, `VLOOKUP`, `IF`, `INDEX-MATCH`, dll.  
 
 ## Download File Disini
-[📥 Download Proyek](https://github.com/dhafa16/portofolio-data-entry/raw/main/dummy project #1.xlsx)
+[📥 Download Proyek]PK
